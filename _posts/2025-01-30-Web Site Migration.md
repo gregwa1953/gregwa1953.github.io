@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  It's been FAR too long
+title:  Web site migration
 date:   2025-01-30 06:30:00
 img: 
-description: Just a simple update
+description: The beginnings of my attempt to update the web site to something close to current tech.
 categories: [Python, PAGE, Tkinter, GUI, Book, Full Circle Magazine]
 sitemap: true
 ---
